@@ -1,12 +1,19 @@
 # FLor_Iris_Modelo_MLP
 Reconhecimentos e Direitos Autorais 
+
 @autor: [João Henrique Calixto Teixeira ,João Victor Lima Salomao e Juan Pablo Furtado Mondego] 
+
 @contato: [juan.mondego@discente.ufma.br, e] 
+
 @data última versão: [21/02/2025] 
+
 @versão: 1.0 
+
 @outros repositórios: [URLs - apontem para os seus Gits, se quiserem] 
+
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
 Thales Levi Azevedo Valente, e colegas de curso. 
+
 Copyright/License 
 Este material é resultado de um trabalho acadêmico para a disciplina 
 INTELIGÊNCIA ARTIFICIAL, sob a orientação do professor Dr. THALES LEVI 
