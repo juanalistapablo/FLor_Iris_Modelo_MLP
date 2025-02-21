@@ -8,9 +8,7 @@ Reconhecimentos e Direitos Autorais
 @data última versão: [21/02/2025] 
 
 @versão: 1.0 
-
-@outros repositórios: [URLs - apontem para os seus Gits, se quiserem] 
-
+ 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
 Thales Levi Azevedo Valente, e colegas de curso. 
 
